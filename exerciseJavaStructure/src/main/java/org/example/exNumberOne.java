@@ -4,7 +4,7 @@ package org.example;
 
 import java.util.Scanner;
 
-public class Main {
+public class exNumberOne {
     public static void main(String[] args) {
         var scanner = new Scanner(System.in);
         Integer number = 0;
