@@ -1,4 +1,4 @@
-package org.example;
+package org.example.EstruturasDeControle;
 
 //Escreva um código onde o usuário entra com sua altura e peso,
 // seja feito o calculo do seu IMC(IMC = peso/(altura * altura)) e

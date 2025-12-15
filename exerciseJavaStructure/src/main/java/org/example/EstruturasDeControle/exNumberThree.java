@@ -1,4 +1,4 @@
-package org.example;
+package org.example.EstruturasDeControle;
 
 //Escreva um código que o usuário entre com um primeiro número, um segundo número maior que o primeiro e
 //escolhe entre a opção par e impar, com isso o código deve informar todos os números
